@@ -2,4 +2,4 @@
 git reset --hard da94458
 mac modify
 macbook
-
+//解决bug
